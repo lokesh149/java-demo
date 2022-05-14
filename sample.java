@@ -1,3 +1,5 @@
-class Simpiet
-public static void main(string argst1)
+class Simple{
+public static void main(string args[]){
 System.out.println("Welcone to Cloud Knowledge ");
+}
+}
